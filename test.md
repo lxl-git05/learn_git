@@ -11,7 +11,8 @@
 ## 3 git pull --rebase
     学习git pull --rebase ,当前行为远端修改记录
 当前行为本地修改记录
-
+使用git pull:
+这里是云端
 ## 4
 
 ## 5
