@@ -8,8 +8,8 @@
 
 ## 2 git pull
   现在在这里添加一行,待会本地检查
-## 3
-
+## 3 git pull --rebase
+    学习git pull --rebase ,当前行为远端修改记录
 ## 4
 
 ## 5
