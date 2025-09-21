@@ -14,6 +14,8 @@
 使用git pull:
 这里是云端更改
 本地更改
+使用git pull --rebase:
+
 ## 4
 
 ## 5
